@@ -1,2 +1,2 @@
 # ASalom.github.io
-#up
+#ups
